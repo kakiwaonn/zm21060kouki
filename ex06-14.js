@@ -1,8 +1,8 @@
 function imgchange5(){document.getElementById('logo3').src='image/animal_cat_kowai.png';}
 function imgchange6(){document.getElementById('logo3').src='image/cat_koubakozuwari_brown.png';}
 
-function hyoji(){//表示する画像
-var str="一文字ずつ表示します。";
+function hyoji(){//表示する元画像
+var gazou="image/cat_koubakozuwari_brown.png";
   //テキストボックスの文字数
 var cnt=document.timer.moji.value.length;
   //画像が全部表示されているか確認
