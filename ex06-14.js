@@ -3,6 +3,11 @@ function imgchange6(){document.getElementById('logo3').src='image/cat_koubakozuw
 
 function hyoji(){//表示する元画像
 var gazou="image/cat_koubakozuwari_brown.png";
+
+function ()
+
+
+  
   //テキストボックスの文字数
 var cnt=document.timer.moji.value.length;
   //画像が全部表示されているか確認
