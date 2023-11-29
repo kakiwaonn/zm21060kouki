@@ -3,4 +3,3 @@ function nazo78(){
 alert('あたり！');}
   else{alert('はずれ！');}
 }
-  
