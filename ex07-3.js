@@ -1,6 +1,6 @@
 function BMI() {
- var sinntyou = Number(document.getElementById('sinntyou').value) / 100;
- var taijyuu = Number(document.getElementById('taijyuu').value);
- var bmi = taijyuu / (sinntyou * sinntyou);
+ var x = Number(document.getElementById('sinntyou').value) / 100;
+ var y = Number(document.getElementById('taijyuu').value);
+ var bmi = y / (x * x);
  alert('bmi');}
 
