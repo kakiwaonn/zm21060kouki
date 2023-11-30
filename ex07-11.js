@@ -6,7 +6,7 @@ if(nenn % 4==0 && nenn % 100 !==0 || nenn % 400==0 );}
 { tosi='閏年';}
 else{tosi='平年';}
 
-document.getElementById('')
+alert('西暦は'+nenn+'年は'+nenn+);}
 
 
 //<p>西暦年<input type="text" id="seirekinenn"></p>
