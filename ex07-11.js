@@ -12,7 +12,6 @@ alert('西暦は'+nenn+'年は'+nenn+);}
 //<p>西暦年<input type="text" id="seirekinenn"></p>
 //<input type="button" value="西暦年解答" onclick="tosi();">  
 
-
 //倫理演算子
 //4で割り切れる　400でも割り切れる　閏年
 // 100で割り切れ400で割り切れない　平年 
