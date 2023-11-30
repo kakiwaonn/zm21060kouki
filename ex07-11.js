@@ -2,7 +2,7 @@ function tosi(){
 var nenn=document.getElementById('seirekinenn').value;
 var tosi;
   
-
+if
 
   
 
