@@ -1,7 +1,7 @@
 function BMI2() {
-    var x = Number(document.getElementById('height').value) / 100; // メートルに
-    var y = Number(document.getElementById('weight').value);
-    var bmi2 = y / (x * x); // BMIの計算
+    var x2 = Number(document.getElementById('height2').value) / 100; // メートルに
+    var y2 = Number(document.getElementById('weight2').value);
+    var bmi2 = y2 / (x2 * x2); // BMIの計算
 
     var siwake;
   if(bmi2<18.5){
