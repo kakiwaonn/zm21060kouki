@@ -1,5 +1,5 @@
 function tosi(){
-
+var nenn
 
 
 //<p>西暦年<input type="text" id="seirekinenn"></p>
