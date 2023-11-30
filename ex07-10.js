@@ -3,7 +3,9 @@ function BMI() {
     var y = Number(document.getElementById('weight').value);
     var bmi = y / (x * x); // BMIの計算
 
-  
+    var siwake;
+    
+    
     alert(bmi);
 }
 
