@@ -1,5 +1,5 @@
 function tosi(){
-var nenn=document.getElementById('seirekinenn').value;
+var nenn=Number(document.getElementById('seirekinenn').value);
 var tosi2;
   
 if((nenn % 4 == 0 && nenn % 100 != 0 )|| nenn % 400 == 0);
