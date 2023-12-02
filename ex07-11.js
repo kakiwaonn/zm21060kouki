@@ -9,6 +9,12 @@ if(nenn % 4 == 0 && nenn % 100 !== 0 || nenn % 400 == 0);
 alert('西暦は'+nenn+'年は'+'tosi2');}
 
 
+function nazo78(){
+  if(document.getElementById('answer78').value=='夢'){
+alert('あたり！');}
+  else{alert('はずれ！');}
+}
+
 //<p>西暦年<input type="text" id="seirekinenn"></p>
 //<input type="button" value="西暦年解答" onclick="tosi();">  
 
