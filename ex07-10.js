@@ -10,5 +10,5 @@ function BMI2() {
        siwake='普通';}
   else {siwake='肥満';}  
     
-    alert('あなたのBMIは'+bmi2+'で、評価は['+siwake+']となります。');
+    alert('あなたのBMIは'+bmi2+'で、評価は['+siwake+']です。');
 }
